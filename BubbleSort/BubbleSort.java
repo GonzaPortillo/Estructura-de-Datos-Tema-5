@@ -1,4 +1,4 @@
-public class Bubbe {
+public class BubbleSort {
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>();
         Random random = new Random();
