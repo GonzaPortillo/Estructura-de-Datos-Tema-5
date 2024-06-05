@@ -1,7 +1,7 @@
 # _*Metodos de ordenamiento*_
 
 ## Índice
-1. [Introducción
+1. [Introducción](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/blob/main/README.md#introducción)
 2. [BubbleSort
 3. [SelectionSort
 4. [InsertionSort
