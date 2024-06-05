@@ -2,7 +2,7 @@
 
 ## Índice
 1. [Introducción](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/blob/main/README.md#introducción)
-2. [BubbleSort
+2. [BubbleSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/blob/main/README.md#método-de-ordenamiento-de-la-burbuja-bubblesort)
 3. [SelectionSort
 4. [InsertionSort
 5. [MergeSort
