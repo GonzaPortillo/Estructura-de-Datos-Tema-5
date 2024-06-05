@@ -3,8 +3,8 @@
 ## Índice
 1. [Introducción](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/blob/main/README.md#introducción)
 2. [BubbleSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/blob/main/README.md#método-de-ordenamiento-de-la-burbuja-bubblesort)
-3. [SelectionSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/edit/main/README.md#método-de-ordenamiento-de-selección-selectionsort)
-4. [InsertionSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/edit/main/README.md#método-de-ordenamiento-de-inserción-insertionsort)
+3. [SelectionSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/tree/main#m%C3%A9todo-de-ordenamiento-de-selecci%C3%B3n-selectionsort)
+4. [InsertionSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/tree/main#m%C3%A9todo-de-ordenamiento-de-inserci%C3%B3n-insertionsort)
 5. [MergeSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/edit/main/README.md#método-de-ordenamiento-de-inserción-insertionsort)
 6. [Conclusión](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/blob/main/README.md#conclusión)
 
