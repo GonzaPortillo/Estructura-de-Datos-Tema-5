@@ -6,7 +6,7 @@
 3. [SelectionSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/edit/main/README.md#método-de-ordenamiento-de-selección-selectionsort)
 4. [InsertionSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/edit/main/README.md#método-de-ordenamiento-de-inserción-insertionsort)
 5. [MergeSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/edit/main/README.md#método-de-ordenamiento-de-inserción-insertionsort)
-6. [Conclusión]
+6. [Conclusión](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/blob/main/README.md#conclusión)
 
 ## Introducción
 Un método de ordenación es un algoritmo que permuta los datos de una estructura en una secuencia determinada. Los métodos de ordenación son especialmente útiles para que los datos que procesamos sean legibles por humanos y su procesamiento se agilice.
@@ -30,4 +30,4 @@ La clasificación por inserción es como clasificar naipes en las manos. Divides
 MergeSort es uno de los algoritmos de clasificación más populares que se basa en el principio del algoritmo divide y vencerá
 
 ## Conclusión
-
+Los métodos de ordenamiento son algoritmos fundamentales en informática y tienen un amplio rango de aplicaciones prácticas, desde la organización de datos hasta la optimización de búsquedas. Estos algoritmos pueden clasificarse en varios tipos, cada uno con sus propias ventajas y desventajas, dependiendo del contexto y los datos específicos a ordenar. No existe un algoritmo de ordenamiento universalmente óptimo; cada uno tiene sus ventajas y es más adecuado para ciertas situaciones. La clave es entender las características de los datos y las restricciones del entorno para elegir el método de ordenamiento más eficiente y efectivo. Por esto, es esencial tener un conocimiento profundo de varios algoritmos y sus comportamientos en diferentes escenarios.
