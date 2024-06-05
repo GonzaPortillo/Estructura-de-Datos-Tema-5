@@ -3,10 +3,10 @@
 ## Índice
 1. [Introducción](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/blob/main/README.md#introducción)
 2. [BubbleSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/blob/main/README.md#método-de-ordenamiento-de-la-burbuja-bubblesort)
-3. [SelectionSort
-4. [InsertionSort
-5. [MergeSort
-6. [Conclusión
+3. [SelectionSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/edit/main/README.md#método-de-ordenamiento-de-selección-selectionsort)
+4. [InsertionSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/edit/main/README.md#método-de-ordenamiento-de-inserción-insertionsort)
+5. [MergeSort](https://github.com/GonzaPortillo/Estructura-de-Datos-Tema-5/edit/main/README.md#método-de-ordenamiento-de-inserción-insertionsort)
+6. [Conclusión]
 
 ## Introducción
 Un método de ordenación es un algoritmo que permuta los datos de una estructura en una secuencia determinada. Los métodos de ordenación son especialmente útiles para que los datos que procesamos sean legibles por humanos y su procesamiento se agilice.
@@ -28,3 +28,6 @@ La clasificación por inserción es como clasificar naipes en las manos. Divides
 
 ## Método de Ordenamiento por mezcla (MergeSort)
 MergeSort es uno de los algoritmos de clasificación más populares que se basa en el principio del algoritmo divide y vencerá
+
+## Conclusión
+
